@@ -8,3 +8,5 @@ sgwtProbotNewIssueSayHi: true
 sgwtProbotNewIssueNpmIssue: true
 
 sgwtProbotCloseIssueReport: true
+
+sgwtProbotIssueCommentBot: true

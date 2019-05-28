@@ -6,3 +6,5 @@ sgwtProbotNewIssueWelcomeComment: >
 sgwtProbotNewIssueSayHi: true
 
 sgwtProbotNewIssueNpmIssue: true
+
+sgwtProbotCloseIssueReport: true

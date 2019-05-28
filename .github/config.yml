@@ -2,3 +2,5 @@
 
 sgwtProbotNewIssueWelcomeComment: >
   Thanks for opening your first issue here! Be sure to follow the issue template!
+
+sgwtProbotNewIssueSayHi: true
